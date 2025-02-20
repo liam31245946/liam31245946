@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam Nguyen</h1>
 <h3 align="center">A FullStack / Front-End / Back-End Developer</h3>
+<img align="right" alt="catCoding" width="400" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy_s.gif?cid=6c09b952ay027ji0zhnb5ls19njcxq87okw7isojvtrqqjxl&ep=v1_gifs_search&rid=giphy_s.gif&ct=g"
 
 - 🌱 I’m currently learning and improving my skills in **Java, C++**
 
