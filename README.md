@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Liam Nguyen</h1>
-<h3 align="center">A FullStack / Front-End / Back-End Developer</h3>
-<img align="right" alt="catCoding" width="400" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy_s.gif?cid=6c09b952ay027ji0zhnb5ls19njcxq87okw7isojvtrqqjxl&ep=v1_gifs_search&rid=giphy_s.gif&ct=g"
+<h3 align="center">A Full-Stack / Front-End / Back-End Developer</h3>
 
-- 🌱 I’m currently learning and improving my skills in **Java, C++**
+<img align="right" alt="catCoding" width="400" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy_s.gif?cid=6c09b952ay027ji0zhnb5ls19njcxq87okw7isojvtrqqjxl&ep=v1_gifs_search&rid=giphy_s.gif&ct=g" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/liam31245946](https://github.com/liam31245946)
+* 🌱 I’m currently learning and improving my skills in **Java** and **C++**.
 
-- 📫 How to reach me **liamnguyennguyen1002@gmail.com**
+* 👨‍💻 All of my projects are available on my [GitHub](https://github.com/liam31245946).
 
-- 📖 **Challenges are meant to be solved, not feared**
+* 📫 How to reach me: **liamnguyennguyen1002@gmail.com**
 
-- ⚡ Fun fact **I love hiking and wish to one day work and live in Lake Tahoe or Big Bear. I also love video games ( survival/ explore / craft) . I also watch a lot of Youtuber who like to take their vehicle into the open and camp. I guess this is my personalty => Explore / Learn / Improve / Stay Curious**
+* 📖 **Challenges are meant to be solved, not feared.**
+
+* ⚡ **Fun fact:**  
+  I love hiking and hope to one day live and work in **Lake Tahoe** or **Big Bear**.  
+  I also enjoy video games (survival/explore/craft) and watching YouTubers who take their vehicles into the open for camping.  
+  My personal motto: **Explore / Learn / Improve / Stay Curious.**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
