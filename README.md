@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm liam31245946</h1>
-<h3 align="center">A Full Stack / Front End / Back End Developer</h3>
+<h1 align="center">Hi 👋, I'm Liam Nguyen</h1>
+<h3 align="center">A FullStack / Front-End / Back-End Developer</h3>
 
 - 🌱 I’m currently learning and improving my skills in **Java, C++**
 
