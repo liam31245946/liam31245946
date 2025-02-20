@@ -10,7 +10,7 @@
 
 - 📖 **Challenges are meant to be solved, not feared**
 
-- ⚡ Fun fact **I love Hiking and ish to one day work remote from Lake Tahoe or Big Bear. I also love video games ( survival/ explore / craft) . I also watch a lot of Youtuber who like to take their vehicle into the open and camp. I guess this is my personalty => Explore / Learn / Improve / Stay Curious**
+- ⚡ Fun fact **I love hiking and wish to one day work and live in Lake Tahoe or Big Bear. I also love video games ( survival/ explore / craft) . I also watch a lot of Youtuber who like to take their vehicle into the open and camp. I guess this is my personalty => Explore / Learn / Improve / Stay Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
