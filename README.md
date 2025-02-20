@@ -16,7 +16,7 @@
   I also enjoy video games (survival/explore/craft) and watching YouTubers who take their vehicles into the open for camping.  
   My personal motto: **Explore / Learn / Improve / Stay Curious.**
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
