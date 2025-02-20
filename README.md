@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **liamnguyennguyen1002@gmail.com**
 
-- ⚡ Fun fact **I am not a smartest person but I will do anything to execute the provided task**
+- 📖 personality **I am not a smartest person but I will do anything to execute provided task**
+
+- ⚡ Fun fact **I love Hiking and Wish to one day work remote from Lake Tahoe or Big Bear. I also love video games ( survival/ explore / craft) type. I also watch a lot of Youtuber who like to take their vehicle into the open and camp. I guess this is my personalty. Explore and thrist for knownledge is in my vein**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
