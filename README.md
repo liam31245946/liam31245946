@@ -3,7 +3,7 @@
 
 <img align="right" alt="catCoding" width="400" src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy_s.gif?cid=6c09b952ay027ji0zhnb5ls19njcxq87okw7isojvtrqqjxl&ep=v1_gifs_search&rid=giphy_s.gif&ct=g" />
 
-* 🌱 I’m currently learning and improving my skills in **Java** and **C++**.
+* 🌱 I’m currently learning and improving my skills in **Java** and **C#**.
 
 * 👨‍💻 All of my projects are available on my [GitHub](https://github.com/liam31245946).
 
